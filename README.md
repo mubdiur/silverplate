@@ -1,0 +1,2 @@
+# silverplate
+A discord bot
