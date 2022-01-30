@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/mubdiur/silverplate/issues"
   },
-  "homepage": "https://github.com/mubdiur/silverplate#readme"
+  "homepage": "https://github.com/mubdiur/silverplate#readme",
+  "dependencies": {
+    "discord-reply": "^0.1.2",
+    "discord.js": "^13.6.0"
+  }
 }
